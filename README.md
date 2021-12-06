@@ -1,1 +1,0 @@
-# Different implementation of models.
